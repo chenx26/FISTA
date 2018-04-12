@@ -1,0 +1,6 @@
+"","error.L1","zeros.correct","zeros.incorrect","zeros.score"
+"glmGamma",0.120475069789252,0,0,0
+"glmGammaNet",0.111153320501875,4.11,0,4.11
+"glmGammaNet.percentile",0.146878436571819,7.85,0,7.85
+"glmGammaNet.1sd",0.308573294203521,9.84,0,9.84
+"glmnet",13.9059096555918,5.4,0,5.4
